@@ -14,20 +14,21 @@ import NavBar from '@/components/NavBar.vue'
         <div class="details">
           <div class="info-cards">
             <div class="card">
-              <span class="icon">💻</span>
-              <h2>Skill Focus</h2>
-              <p>Your Primary Skill</p>
-              <p>Your Secondary Skill</p>
+              <span class="icon">💻☕</span>
+              <h2>Hobbies </h2>
+              <p>Watching Anime, Movies</p>
+              <p>Reading manga, manhwa</p>
+              <p>Listening to music</p>
             </div>
             <div class="card">
               <span class="icon">📚</span>
               <h2>Education</h2>
-              <p>Your University Name</p>
-              <p>Your Course/Major</p>
+              <p>Asia Pacific College</p>
+              <p>BS in Information Technology</p>
             </div>
           </div>
           <p class="bio">
-            Hello, I am **[Your Name Here]**. I am a student/professional focused on [Your Field]. This space is where I showcase my projects, skills, and background. I am passionate about [Your Interest] and always looking for new challenges. Please feel free to check out my work!
+            Hello, I am Jin Cyril Baydo. I am a student focused on BS in Information Technology. This space is where I showcase my projects, skills, and background. I am passionate about web development and always looking for new challenges. Please feel free to check out my work!
           </p>
         </div>
       </div>
@@ -39,7 +40,7 @@ import NavBar from '@/components/NavBar.vue'
 </template>
 
 <style scoped>
-/* All the CSS remains, using neutral black/white/gray/blue tones */
+/* ALL the CSS code for the layout and styling goes here */
 .about-container {
   padding: 8rem 5% 4rem; 
   font-family: Arial, sans-serif;

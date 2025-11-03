@@ -1,6 +1,6 @@
 <template>
   <nav>
-    <div class="name">Your Name Here</div>
+    <div class="name">Jin Cyril Baydo</div>
     <div class="links">
       <RouterLink to="/">About</RouterLink>
       <RouterLink to="/guestbook">Guestbook</RouterLink>
@@ -18,8 +18,8 @@ nav {
   justify-content: space-between;
   align-items: center;
   padding: 1rem 5%;
-  background-color: white; /* White background */
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); /* Gray shadow */
+  background-color: white; 
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); 
   font-family: Arial, sans-serif;
   position: fixed;
   width: 90%;
@@ -32,13 +32,13 @@ nav {
 .name {
   font-weight: bold;
   font-size: 1.25rem;
-  color: black; /* Black text */
+  color: black; 
 }
 
 .links a {
   margin-left: 1.5rem;
   text-decoration: none;
-  color: gray; /* Gray link color */
+  color: gray; 
   font-weight: 500;
   transition: color 0.3s;
 }
